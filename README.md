@@ -8,8 +8,9 @@ Student at Universitas Negeri Surabaya, currently majoring at Informatics Engine
 
 <h3 align="center">Find me!</h3>
 <p align="center">
-<img alt="Linkedin Badge" src="https://img.shields.io/badge/-Dani Ramadhan-cyan?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/dani-ramadhan/" >
-<img alt="Instagram Badge" src="https://img.shields.io/badge/-daniramadhan27-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniramadhan27">
+<a href="https://www.linkedin.com/in/dani-ramadhan/" target="_blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Dani%20Ramadhan-cyan?style=flat-square&logo=Linkedin&logoColor=black" ></a>
+<a href="https://www.instagram.com/daniramadhan27" target="_blank"><img alt="Instagram Badge" src="https://img.shields.io/badge/-daniramadhan27-purple?style=flat-square&logo=Instagram&logoColor=white"></a>
+
 
 
 <p align="left">
